@@ -20,3 +20,5 @@ matplotlib
 
 
 ![yen,](https://github.com/user-attachments/assets/5842a6ec-ba78-491f-a9fb-f4a60de008db)
+
+#Herhangi bir yatırım tavsiyesi içermemektedir.Sadece kendimi geliştirme amaçlı yapmış olduğum bir çalışmadır.
